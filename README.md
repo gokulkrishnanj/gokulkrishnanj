@@ -15,7 +15,7 @@ Backend Developer (Java Spring Boot)<br>Passionate about building and optimizing
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokulkrishnanj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
  “A bug is not a setback; it’s an opportunity to strengthen your problem-solving skills.”
 
 ### 🔝 Top Contributed Repo
