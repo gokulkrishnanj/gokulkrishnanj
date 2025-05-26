@@ -3,7 +3,7 @@ Backend Developer (Java Spring Boot)<br>Passionate about building and optimizing
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkrishnan-j-78b157220) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27588520/gokul-krishnan-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jgokulkrishnan@outlook.com) [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgokulkrishnan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27588520/gokul-krishnan-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jgokulkrishnan@outlook.com) [![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white
 )](https://leetcode.com/u/jgokulkrishnan/)
 
 # 💻 Tech Stack:
