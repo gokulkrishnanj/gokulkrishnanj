@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer (Java Spring Boot)<br>Passionate about building and optimizing server-side applications using cutting-edge technologies. Currently learning AWS to enhance cloud computing skills.<br><br>Interests<br>Problem-solving on Leetcode and GeeksForGeeks<br><br>Open source contributions<br><br>Keeping up with industry trends
+Backend Developer (Java Spring Boot)
 
 
 ## 🌐 Socials:
